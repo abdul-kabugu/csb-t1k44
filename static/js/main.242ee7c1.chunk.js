@@ -1,0 +1,2 @@
+(this["webpackJsonpmeme-game-generator"]=this["webpackJsonpmeme-game-generator"]||[]).push([[0],{10:function(e,t,n){"use strict";n.r(t);var c=n(1),r=n(3),s=n.n(r),o=(n(8),n(0));function a(){return Object(o.jsxs)("div",{className:"App",children:[Object(o.jsx)("h1",{children:"Hello CodeSandbox"}),Object(o.jsx)("h2",{children:"Start editing to see some magic happen!"})]})}var i=document.getElementById("root");s.a.render(Object(o.jsx)(c.StrictMode,{children:Object(o.jsx)(a,{})}),i)},8:function(e,t,n){}},[[10,1,2]]]);
+//# sourceMappingURL=main.242ee7c1.chunk.js.map

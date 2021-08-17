@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://abdul-kabugu.github.io/csb-t1k44/static/css/main.2186a268.chunk.css",
+    "main.js": "https://abdul-kabugu.github.io/csb-t1k44/static/js/main.242ee7c1.chunk.js",
+    "main.js.map": "https://abdul-kabugu.github.io/csb-t1k44/static/js/main.242ee7c1.chunk.js.map",
+    "runtime-main.js": "https://abdul-kabugu.github.io/csb-t1k44/static/js/runtime-main.005e4835.js",
+    "runtime-main.js.map": "https://abdul-kabugu.github.io/csb-t1k44/static/js/runtime-main.005e4835.js.map",
+    "static/js/2.176938b8.chunk.js": "https://abdul-kabugu.github.io/csb-t1k44/static/js/2.176938b8.chunk.js",
+    "static/js/2.176938b8.chunk.js.map": "https://abdul-kabugu.github.io/csb-t1k44/static/js/2.176938b8.chunk.js.map",
+    "index.html": "https://abdul-kabugu.github.io/csb-t1k44/index.html",
+    "static/css/main.2186a268.chunk.css.map": "https://abdul-kabugu.github.io/csb-t1k44/static/css/main.2186a268.chunk.css.map",
+    "static/js/2.176938b8.chunk.js.LICENSE.txt": "https://abdul-kabugu.github.io/csb-t1k44/static/js/2.176938b8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.005e4835.js",
+    "static/js/2.176938b8.chunk.js",
+    "static/css/main.2186a268.chunk.css",
+    "static/js/main.242ee7c1.chunk.js"
+  ]
+}
